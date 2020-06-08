@@ -1,0 +1,20 @@
+<div class="content-row content-woocommerce page-woocommerce container">
+                <p>
+                    The National Road Safety Partnership Program (NRSPP) Total Road Incident Cost Calculator was designed to provide organisations with an estimate of the direct and indirect costs associated with a road incident.<br>
+                    The calculator presents an estimate of total incident costs in simple terms, underlining how much each incident could potentially cost an organisation in terms of lost revenue or service provision. In so doing, it helps organisations understand the cost of road incidents relative to productivity, profitability and service delivery. The calculator will help you articulate the additional production or service delivery needed to recover the Total Cost of Risk.
+                </p>
+                <h2><strong>Who can use the calculator?</strong></h2>
+                <p>The calculator recognises the differences in operations and business structure across different sectors. To this end, tailored solutions and calculations are provided for the Manufacturing and Services sector, State and Local Government sector, Health and Emergency Services and Other Community Services and Not-for-Profit organisations.</p>
+                <h2><strong>How does it work?</strong></h2>
+                <p><strong><span style="font-family: Thread-00003390-Id-000000d2">The calculator has three main components:</span></strong></p>
+                <p><strong><span style="font-family: Thread-00003390-Id-000000d2">1. Input</span></strong></p>
+                <p>The input section is where the user enters information on the organisation, e.g. the type of sector, the main product manufactured or main service delivered, number of road incidents a year, insurance details, fleet size, annual mileage where applicable include any ‘grey fleet’ exposure.</p>
+                <p>What is sometimes confused by organisations is even a ‘grey’ fleet will contribute to additional hidden, uninsured costs should it be involved in a traffic incident. Please refer to Appendix A for templates to assist in compiling the necessary data from a variety of sources in your organisation.</p>
+                <p><strong><span style="font-family: Thread-00003390-Id-000000d2">2. Calculate</span></strong></p>
+                <p>This information is then used to calculate the direct and indirect costs as well as other key statistics. This can be used as the first step to using the online calculator.</p>
+                <p>From a privacy point of view, the information provided in this section is not stored, instead, only the sector and output information are stored for use in future industry benchmarking.</p>
+                <p>The calculations include a number of key indicators about the frequency of incidents involving your fleet, such as the overall claim rate which indicates the number of incidents per 100 000 kilometres travelled, the number of kilometres travelled before an incident occurs and the overall claim rate per vehicle. These can be used for future industry benchmarking, and assist with performance monitoring and setting future targets that indicate risk improvement.</p>
+                <p><strong><span style="font-family: Thread-00003390-Id-000000d2">3. Output</span></strong></p>
+                <p>The calculator then presents the overall financial findings which indicates the severity of incidents. This includes a breakdown of the total direct costs for the managed fleet (i.e. annual premiums and excess paid), total indirect costs for the managed fleet (using a conservative estimate of three times the damage bill covered by insurer) and the overall costs which include any grey fleet exposure. These costs are then related to the organisation’s revenue and a typical, indicative product in the results section.</p>
+                <p>What this is designed to show your senior executives is just how many products need to be manufactured, or services provided, to cover the additional costs of your fleet risk, over and above what your Insurer provides.</p>
+            </div>
