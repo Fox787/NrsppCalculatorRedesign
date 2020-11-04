@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php include('server.php');?>
+<!DOCTYPE php>
 <html lang="en-US" class="js webkit chrome win js wf-myriadpro-n3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-i3-active wf-myriadpro-i6-active wf-active">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,7 +13,7 @@
     </title>
 
     <!-- FOUC Fix -->
-    <script async="" src="../files/analytics.js"></script>
+       <script async="" src="../files/analytics.js"></script>
     <script>
         (function (H) {
             H.className = H.className.replace(/\bno-js\b/, 'js')
@@ -71,6 +72,11 @@
                     <link rel="stylesheet" media="screen" href="css/fontface-ielte8.css" />
                     <![endif]-->
     <script src="../files/kkv3xcl.js"></script>
+    <style type="text/css">
+        .tk-myriad-pro {
+            font-family: "myriad-pro",sans-serif;
+        }
+    </style>
     <style type="text/css">
         @font-face {
             font-family: myriad-pro;
@@ -147,7 +153,6 @@
         }
     </style>
 </head>
-
 <body class="home page-template-default page page-id-113 theme-nrspp woocommerce-js" data-gr-c-s-loaded="true">
     <nav id="mobile-nav" role="navigation" class="mm-menu mm-offcanvas mm-right">
         <div class="mm-panels">
@@ -156,6 +161,7 @@
                     <li id="menu-item-23622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23622"><a href="../index.html">Home</a></li>
                     <li id="menu-item-17658" class="standard-dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17658"><a class="mm-next" href="../pages/Related_Resources.html" data-target="#mm-2"></a><a>Related Resources</a></li>
                     <li id="menu-item-3817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817"><a href="../pages/Calculator.php">Calculator</a></li>
+
                 </ul>
             </div>
 
@@ -172,7 +178,8 @@
 
     <div class="mm-slideout-mm-page mm-page mm-slideout" id="mm-0">
         <header id="main-header">
-             <div class="header-middle container">
+        
+            <div class="header-middle container">
                 <a href="https://www.nrspp.org.au/" id="main-logo" title="https://www.nrspp.org.au">
                     <img src="../files/nrspp-logo.svg" alt="https://www.nrspp.org.au" class="logo svg-image">
                 </a>
@@ -187,26 +194,14 @@
                                 <a>Related Resources</a>
                                 <ul class="sub-menu">
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17662"><a title="Research" href="../pages/Research.html"><div class="custom-dropdown-block"><div class="image"><span>Research</span></div></div></a></li>
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17665"><a title="Resources" href="../pages/Resources.html"><div class="custom-dropdown-block"><div class="image"><span>Resources</span></div></div></a></li>                     
+                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17665"><a title="Resources" href="../pages/Resources.html"><div class="custom-dropdown-block"><div class="image"><span>Resources</span></div></div></a></li>
                                 </ul>
                             </li>
                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3817"><a href="../pages/Calculator.php">Calculator</a></li>
-
                         </ul>
                     </div>
 
                 </nav>
-            </div>
-            <div id="nav-dropdown-bg">
-                <div class="container">
-                    <div id="insights-dropdown-text" class="dropdown-mega-text">
-                        <p>The National Road Safety Partnership Program (NRSPP) offers a collaborative network for Australian organisations to build and implement effective road safety strategies in the workplace.</p>
-                        <p>The program offers organisations the resources to improve road safety that best fit their individual operations and, at the same time, improve business productivity through less time and money lost through safety incidents.</p>
-                        <p>The program is not a prescriptive approach but aims to complement existing safety legislation  by providing access to a ‘knowledge bank’ from a diverse network of organisations to given them the resources to implement their own initiatives. The tools will help make the business case for organisations shifting their safety focus from 'having' to safety to secure a contract to 'wanting' to because it is simply good business.</p>
-                    </div>
-                    <div id="tools-dropdown-text" class="dropdown-mega-text">
-                    </div>
-                </div>
             </div>
             <div class="header-breadcrumb">
                 <div class="container">
@@ -219,6 +214,8 @@
                 </div>
             </div>
         </header>
+
+        <!-- block-->
         <section id="stickyNav" style="display: none;">
             <div class="container">
                 <a href="../index.html" id="main-logo" title="Home">
@@ -241,27 +238,22 @@
                     </div>
                 </nav>
             </div>
-            <!--row container-->
-            <a href="https://www.nrspp.org.au/cost-calculator/#mobile-nav" class="menu-button open-menu" id="mobile-hamburger"><span></span></a>
         </section>
 
-
-
-<!--MAIN Body-->
         <div class="page-title-container">
-            <h1 class="page-title container">Resources Center</h1>
+            <h1 class="page-title container">The Results</h1>
         </div>
+<!--MAIN-->
+        <main role="main" class="page home" id="main" style="padding-top: 20px;">
+            <div id="content" class="container home"> 
 
-        <main role="main" class="page home" id="main">
-            <div id="content" class="container home">
-                <h2 class="title home-content-title equal" style="height: 319px;">Improving road safety,  it's simply good business!</h2><div class="home-content-body equal" style="height: 319px;">
-                    <h4>Location for Guides and how to use Calulator to be added as completed<br>
-                        Pending Future Development.</h4>      
-                </div>
+			<table sytle="width:60%">
+				<tr>
+				
+
+
             </div>
-      
         </main>
-
         <section class="email-subscription">
             <div class="container">
                 <div class="subscribe-title">
